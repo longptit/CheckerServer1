@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CheckerClient/CheckerClient.iml" filepath="$PROJECT_DIR$/../CheckerClient/CheckerClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckerServer.iml" filepath="$PROJECT_DIR$/CheckerServer.iml" />
+    </modules>
+  </component>
+</project>
